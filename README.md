@@ -1,6 +1,4 @@
-# Magnificent Lupin Project
-
-## Enhancing Deep Learning Robustness in Microscopy Images
+# Enhancing Deep Learning Robustness in Microscopy Images Project
 
 ### By: Sadra Moazzen, Maricruz Díaz, Jiawei Kong, Cherishma Subhasa
 
@@ -16,7 +14,7 @@ How can deep learning models be made more robust to noise and artifacts in micro
 
 ## Methods
 
-- **Dataset**: Autosegmentation of Cultured Neurons Datase
+- **Dataset**: Autosegmentation of Cultured Neurons Dataset
 - **Model**: U-Net (CNN with encoder-decoder structure and skip connections)
 - **Optimizer**: Adamax
 - **Data Augmentation**: Rotations, resizing, cropping, translations, and horizontal flipping
