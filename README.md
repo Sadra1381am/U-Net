@@ -14,7 +14,7 @@ How can deep learning models be made more robust to noise and artifacts in micro
 
 ## Methods
 
-- **Dataset**: Autosegmentation of Cultured Neurons Dataset
+- **Dataset**: Auto segmentation of Cultured Neurons Dataset
 - **Model**: U-Net (CNN with encoder-decoder structure and skip connections)
 - **Optimizer**: Adamax
 - **Data Augmentation**: Rotations, resizing, cropping, translations, and horizontal flipping
